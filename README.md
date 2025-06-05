@@ -20,3 +20,10 @@ MENTOR: NEELA SANTHOSH KUMAR
 -> To make it work, you need a stable internet connection, a valid API key from OpenWeatherMap, and a basic understanding of JavaScript promises (`fetch` and `.then()`) to process asynchronous API calls.
 
 -> This app demonstrates core front-end development skills: working with forms, event listeners, JSON APIs, dynamic updates, and responsive UI design — all without needing a backend server.
+
+# Output
+![Image](https://github.com/user-attachments/assets/9da3ffcc-b08a-4ec9-93e0-270e4bc9488a)
+
+![Image](https://github.com/user-attachments/assets/36fb4580-caac-41bc-9f67-3d4c9515d88f)
+
+![Image](https://github.com/user-attachments/assets/d9cfe976-13ca-4f9c-9405-be25759b0e54)
