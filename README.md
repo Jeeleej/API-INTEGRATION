@@ -1,16 +1,4 @@
-# API-INTEGRATION
-
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: VAGHASIYA JEEL MUKESHBHAI
-
-INTERN ID: CT04DF1163
-
-DOMAIN: FULL STACK WEB DEVELOPMENT
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTHOSH KUMAR
+# WEATHER-API
 
 -> My weather app is a client-side application that fetches real-time weather data using the OpenWeatherMap API. It allows users to search for the current weather in any city by submitting a form. Once a city is entered, the app sends a GET request to the OpenWeatherMap API with the city name and your unique API key. The API responds with JSON data that includes temperature, humidity, pressure, cloud coverage, weather icon, and country code. This data is then dynamically displayed in your UI using JavaScript.
 
