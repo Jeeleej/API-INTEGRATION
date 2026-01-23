@@ -15,8 +15,9 @@
 -> This app demonstrates core front-end development skills: working with forms, event listeners, JSON APIs, dynamic updates, and responsive UI design — all without needing a backend server.
 
 # Output
-![Image](https://github.com/user-attachments/assets/9da3ffcc-b08a-4ec9-93e0-270e4bc9488a)
+<img width="1919" height="819" alt="Screenshot 2026-01-23 220421" src="https://github.com/user-attachments/assets/3f2bda47-e43a-4700-9584-0c17b94b64de" />
 
-![Image](https://github.com/user-attachments/assets/36fb4580-caac-41bc-9f67-3d4c9515d88f)
+<img width="1918" height="823" alt="Screenshot 2026-01-23 220609" src="https://github.com/user-attachments/assets/a75816b6-2742-4776-8a8e-4d9dabba1ee4" />
 
-![Image](https://github.com/user-attachments/assets/d9cfe976-13ca-4f9c-9405-be25759b0e54)
+<img width="1919" height="818" alt="Screenshot 2026-01-23 220709" src="https://github.com/user-attachments/assets/7549fc57-0eaa-4861-a6e1-4b040bd80d27" />
+
